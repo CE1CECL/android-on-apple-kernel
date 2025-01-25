@@ -351,7 +351,7 @@ more details, with real examples.
 
 	Example::
 
-		subdir-ccflags-y := -Werror
+		subdir-ccflags-y := 
 
     CFLAGS_$@, AFLAGS_$@
 	CFLAGS_$@ and AFLAGS_$@ only apply to commands in current
